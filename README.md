@@ -1,1 +1,2 @@
-# dicussly
+# dicussly- Find discussion partners around the world 
+Discussly, a Django-powered platform inspired by Discord, where users can log in, create and join rooms, and engage in meaningful conversations. The platform allows users to manage their profiles, edit or delete their rooms and comments, and maintain full control over their interactions. A dynamic activity sidebar showcases recent actions, such as the latest comments by users, along with the rooms they were posted in and the content of the comments. Discussly fosters collaboration and seamless communication with intuitive features and real-time activity tracking.
